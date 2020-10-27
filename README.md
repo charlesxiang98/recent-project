@@ -12,9 +12,8 @@ Backend:
 Data access: Spring boot & Spring Data JPA.
 Database: MySQL.
 Build tool: Maven.
-Frontend:
 
-Framework: Angular 8.
+Frontend Framework: Angular 8.
 Libraries: animate.css, materialize-css.
 Build tool: npm.
 Instructions:
