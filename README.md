@@ -35,3 +35,5 @@ You can login like admin(username and password – “admin”) or just to regis
 
 
 
+3.Spring Boot Application to use JSON Web Tokens (JWT) for REST APIs.
+
