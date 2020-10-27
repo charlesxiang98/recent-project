@@ -18,16 +18,10 @@ Framework: Angular 8.
 Libraries: animate.css, materialize-css.
 Build tool: npm.
 Instructions:
-<<<<<<< HEAD
-=======
 
-1.Go to "client" folder and run "npm i" to install Node dependecies, after that you have to run MySQL server and client side server in Angular by using command “npm start”. 
-You can login like admin(username and password – “admin”) or just to register new company or customer.
->>>>>>> origin/master
+1.Database Access:
 
-2.Database Access:
-
-1.The credentials for the connection profile are
+The credentials for the connection profile are
 
 URL: jdbc:mysql://localhost:3306/coupon_system?createDatabaseIfNotExist=true&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 
